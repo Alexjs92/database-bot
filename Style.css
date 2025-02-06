@@ -1,0 +1,22 @@
+.titule {
+    color:red;
+    position:absolute;
+    font-size: 40px;
+    top: 10px;
+    right: 600px;
+}
+.credits {
+    color: lime;
+    font-family:monospace;
+    font-size: 40px;
+    position:absolute;
+    top: 580px;
+    right: 310px;
+}
+.commands {
+    color:red;
+    font-family:monospace;
+    font-size: 15px;
+    position:absolute;
+    top: 590px;
+}

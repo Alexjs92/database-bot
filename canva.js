@@ -1,0 +1,1 @@
+renderer = new THREE.WebGLRenderer({ canvas: canvas, alpha: true });
